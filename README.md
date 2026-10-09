@@ -44,9 +44,9 @@ My interests include **ML pipeline development, experimental design, efficient i
 
 ## 📚 Additional Project Experience
 
-- **CMI:** Machine learning model development and performance improvement.
-- **RAG:** Retrieval-augmented generation and evaluation methodology.
-- **Lp-Attention:** Mathematical exploration of attention mechanisms.
+- **CMI — Machine Learning:** Contributed to model development and evaluation, improving F1 score from 0.46 to 0.59.
+- **RAG — Retrieval-Augmented Generation:** Developed retrieval-based AI workflows with an emphasis on evaluation methodology, error analysis, and reliability.
+- **Lp-Attention — Mathematical ML Research:** Explored mathematical formulations of attention mechanisms.
 
 ## 🎯 Career Interests
 
