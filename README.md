@@ -1,29 +1,62 @@
-# Hi there, I'm a Mathematician diving into AI 👋
+# Hi, I'm Ji-Sang 👋
 
-## 👨‍🎓 About Me
-* **Education:** B.S. in Mathematics, Korea University (Graduated Aug 2020)
-* **Gender:** Male
-* **Languages:** Native in **Korean**, Fluent in **English** (Practicing technical writing)
+### Mathematics Graduate | Aspiring Machine Learning Engineer | Bio-AI
 
-## 🚀 Introduction
-> "From Abstract Mathematics to Concrete Intelligence."
+**From Abstract Mathematics to Applied Machine Learning.**
 
-This repository documents my journey in **Programming**, focusing on:
-* **Core Skills:** Object-Oriented Programming (OOP) & Data Structures
-* **AI Fields:** Machine Learning, Deep Learning (CV, NLP)
-* **Future Goal:** Building **Generative AI (LLMs)** and Bio-AI algorithms for drug discovery.
+I'm a mathematics graduate from Korea University with hands-on experience in machine learning, bioinformatics, and model evaluation.
+
+My interests include **ML pipeline development, experimental design, efficient inference, and biological applications of AI**.
+
+## 🔬 Featured Project
+
+### CAFA6 — Protein Function Prediction
+
+[View GitHub Repository](https://github.com/aqua1107/CAFA6)
+
+- Developed a protein function prediction pipeline combining deep learning and sequence-based biological evidence.
+- Worked with protein embeddings, BLAST-based signals, and ensemble methods.
+- Implemented memory-efficient inference workflows.
+- Participated in CAFA6, achieving a reported ranking within the top 35%.
+
+## 🛠️ Technical Skills
+
+**Programming**
+- Python
+- C (familiarity)
+
+**Machine Learning**
+- PyTorch
+- Scikit-learn
+- Deep Learning
+- Model Evaluation
+- Embedding-based Methods
+
+**Bioinformatics**
+- Protein Function Prediction
+- ESM-2
+- BLAST
+
+**Tools & Environments**
+- Git / GitHub
+- Jupyter Notebook
+- Kaggle
+
+## 📚 Additional Project Experience
+
+- **CMI:** Machine learning model development and performance improvement.
+- **RAG:** Retrieval-augmented generation and evaluation methodology.
+- **Lp-Attention:** Mathematical exploration of attention mechanisms.
+
+## 🎯 Career Interests
+
+I'm interested in entry-level opportunities involving:
+
+- Machine Learning Engineering
+- AI Engineering
+- Bioinformatics and Bio-AI
+- ML Model Evaluation and Optimization
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-### AI & Frameworks
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
----
 *Thanks for visiting! Feel free to explore my repositories.*
